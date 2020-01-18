@@ -135,10 +135,6 @@ body {
   align-items:center;
 }
 
-#color {
-  border:3px solid black;
-}
-
 #content p span {
   font-family: 'Lora', sans-serif;
 }
